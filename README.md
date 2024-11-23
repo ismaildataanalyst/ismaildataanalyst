@@ -45,15 +45,6 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 
 ---
 
-### 🥇 Achievements
-
-<div align="center">
-  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ismaildataanalyst)
-  [<img src="https://github-profile-trophy.vercel.app?username=shaun-mia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>](https://github-profile-trophy.vercel.app/?username=ismaildataanalyst)](https://github.com/ryo-ma/github-profile-trophy))
-
----
-
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
@@ -63,8 +54,3 @@ I’m always open to discussing new projects, ideas, or opportunities to collabo
 
 ---
 
-### 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaun-mia&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
