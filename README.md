@@ -33,7 +33,7 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=FAF7F0)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=FAF7F0)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=FAF7F0)
-![AI Tools](https://img.shields.io/badge/-AI%20Tools-5D3FD3?style=flat&logo=artificial-intelligence&logoColor=FAF7F0)
+![AI Tools](https://img.shields.io/badge/-AI%20Tools-89A8B2?style=flat&logo=artificial-intelligence&logoColor=FAF7F0)
 
 #### Soft Skills
 ⏳ Time Management  
@@ -48,9 +48,9 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 ### 🥇 Achievements
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shaun-mia&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=shaun-mia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=ismaildataanalyst)
+  [<img src="https://github-profile-trophy.vercel.app?username=shaun-mia&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>](https://github-profile-trophy.vercel.app/?username=ismaildataanalyst)](https://github.com/ryo-ma/github-profile-trophy))
 
 ---
 
