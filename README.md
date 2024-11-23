@@ -43,6 +43,8 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 🎨 Business Reporting
 🎯 Continuous Improvement
 
+
+
 ---
 
 ### Let's Connect!
@@ -52,5 +54,4 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
 
----
 
