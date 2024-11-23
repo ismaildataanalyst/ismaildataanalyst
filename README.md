@@ -42,9 +42,6 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 🤝 Team Collaboration
 🎨 Business Reporting
 🎯 Continuous Improvement
-
-
-
 ---
 
 ### Let's Connect!
