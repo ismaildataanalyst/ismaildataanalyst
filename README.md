@@ -1,8 +1,8 @@
 
 # Hi there, I'm Md Ismail Hossain!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=#3A6D8C)](https://www.linkedin.com/in/ismail5481) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
+[![Email](https://img.shields.io/badge/-Email-89A8B2?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com)
 
 ---
 
@@ -57,7 +57,7 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 ### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com) 
+[![Email](https://img.shields.io/badge/-Email-89A8B2?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com) 
 
 I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
 
