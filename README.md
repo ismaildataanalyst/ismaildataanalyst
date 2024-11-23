@@ -40,8 +40,11 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 🔍 Problem Solving  
 🔄 Data Modeling  
 🤝 Team Collaboration
+
+#### Additional Skills
 🎨 Business Reporting
 🎯 Continuous Improvement
+
 ---
 
 ### Let's Connect!
