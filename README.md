@@ -10,11 +10,11 @@
 
 I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bachelor of Business Administration (BBA). I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python**, **SQL** to turn data into actionable insights.
 
-- 🌱 Currently honing my skills in **Python** and **Advanced Data Analysis**.
-- 👯 Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
-- 🤝 Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
-- 🎨 Have a knack for **Data Analysis** and enjoy applying these skills to enhance my projects.
-- 🎯 **I’m looking for an entry-level Data Analyst role** to leverage my skills in a professional setting.
+-  Currently honing my skills in **Python** and **Advanced Data Analysis**.
+-  Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
+-  Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
+-  Have a knack for **Data Analysis** and enjoy applying these skills to enhance my projects.
+-  **I’m looking for an entry-level Data Analyst role** to leverage my skills in a professional setting.
 
 ---
 
@@ -36,14 +36,14 @@ I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bach
 ![AI Tools](https://img.shields.io/badge/-AI%20Tools-89A8B2?style=flat&logo=artificial-intelligence&logoColor=FAF7F0)
 
 #### Soft Skills
-⏳ Time Management  
-🔍 Problem Solving  
-🔄 Data Modeling  
-🤝 Team Collaboration
+- Time Management  
+- Problem Solving  
+- Data Modeling  
+- Team Collaboration
 
 #### Additional Skills
-🎨 Business Reporting
-🎯 Continuous Improvement
+- Business Reporting
+- Continuous Improvement
 
 ---
 
