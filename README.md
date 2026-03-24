@@ -2,8 +2,7 @@
 # Hi there, I'm Md Ismail Hossain!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
-[![Portfolio Website](<img width="512" height="512" alt="world-wide-web" src="https://github.com/user-attachments/assets/18b91dc3-9d8f-48d5-bf51-4fd47df6c2f4" />
-)](https://ismaildataanalyst.github.io/)
+[![Portfolio Website](https://ismaildataanalyst.github.io/)
 [![Email](https://img.shields.io/badge/-Email-89A8B2?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com)
 
 ---
