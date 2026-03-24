@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0077B5?style=flat&logo=Portfolio&logoColor=FAF7F0)](https://ismaildataanalyst.github.io/) 
-📧 Email: ismailr5481@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=flat)](mailto:ismailr5481@gmail.com)
 
 ---
 
