@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
 [![Email](https://img.shields.io/badge/-Email-89A8B2?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com)
-[![Portfolio Web](https://img.shields.io/badge/-Web-0077B5?style=flat&logo=Portfolio Web&logoColor=FAF7F0)](https://ismaildataanalyst.github.io/) 
+[![PortfolioWeb](https://img.shields.io/badge/-Web-0077B5?style=flat&logo=PortfolioWeb&logoColor=FAF7F0)](https://ismaildataanalyst.github.io/) 
 
 ---
 
