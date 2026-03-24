@@ -2,8 +2,8 @@
 # Hi there, I'm Md Ismail Hossain!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
-[![Portfolio Website](https://ismaildataanalyst.github.io/)
 [![Email](https://img.shields.io/badge/-Email-89A8B2?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com)
+[![Web](https://img.shields.io/badge/-Web-0077B5?style=flat&logo=Web&logoColor=FAF7F0)](https://ismaildataanalyst.github.io/) 
 
 ---
 
