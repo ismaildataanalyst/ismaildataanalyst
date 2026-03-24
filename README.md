@@ -2,15 +2,17 @@
 # Hi there, I'm Md Ismail Hossain!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=FAF7F0)](https://www.linkedin.com/in/ismail5481) 
+[![Portfolio Website](<img width="512" height="512" alt="world-wide-web" src="https://github.com/user-attachments/assets/18b91dc3-9d8f-48d5-bf51-4fd47df6c2f4" />
+)](https://ismaildataanalyst.github.io/)
 [![Email](https://img.shields.io/badge/-Email-89A8B2?style=flat&logo=gmail&logoColor=FAF7F0)](mailto:ismailr5481@gmail.com)
 
 ---
 
 ### About Me
 
-I'm a **Data Analyst**,**Power BI Developer** & **Business Analyst** with a Bachelor of Business Administration (BBA). I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python**, **SQL** to turn data into actionable insights.
+I am a **Data Analyst**, **Power BI Developer**, and **Business Analyst** with a Master of Business Administration (MBA) and a Postgraduate Diploma in Supply Chain Management (PGD in SCM). I am passionate about working on real-world projects and leveraging tools such as **Excel**, **Power BI**, **Python**, and **SQL** to transform data into actionable insights.
 
--  Currently honing my skills in **Python** and **Advanced Data Analysis**.
+-  Currently advancing my proficiency in **Python** and advanced **data analysis** to drive deeper insights..
 -  Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
 -  Enjoy coding in **Python**, **C**, and **C++**, focusing on creating useful tools and projects.
 -  Have a knack for **Data Analysis** and enjoy applying these skills to enhance my projects.
